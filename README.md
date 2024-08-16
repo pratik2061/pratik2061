@@ -7,7 +7,7 @@
 <br><br>
 - 🌱 I’m currently learning Frontend & Backend  .
 - 🔭 I’m currently working on React Js & Laravel .
-- 📫 How to reach me: https://www.linkedin.com/in/pratik-sharma-937909290/
+- 📫 How to reach me: https://pratik-portfolio-website.vercel.app/
 - 😄 Pronouns: he/him
 <br>
 
