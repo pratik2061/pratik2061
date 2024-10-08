@@ -5,8 +5,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- 🌱 I’m currently learning Frontend & Backend  .
-- 🔭 I’m currently working on React Js & Laravel .
+- 🌱 I’m currently learning Frontend.
+- 🔭 I’m currently working on React Js.
 - 📫 How to reach me: https://pratik-portfolio-website.vercel.app/
 - 😄 Pronouns: he/him
 <br>
