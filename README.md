@@ -7,7 +7,7 @@
 <br><br>
 - 🌱 I’m currently learning Frontend.
 - 🔭 I’m currently working on React Js.
-- 📫 How to reach me: https://pratik-portfolio-website.vercel.app/
+- 📫 How to reach me:https://pratiksharma.info.np/
 - 😄 Pronouns: he/him
 <br>
 
