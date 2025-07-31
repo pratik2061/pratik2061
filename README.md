@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Sharma</h1>
-<h3 align="center">A Passionate Fullstack Developer from Nepal</h3>
+<!-- <h3 align="center">A Passionate Fullstack Developer from Nepal</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratik2061&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -19,8 +19,8 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pratik-sharma-937909290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.pratiksharma.info.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -103,7 +103,6 @@
     <td colspan="4"></td>
   </tr>
 </table>
-
 
 ---
 
