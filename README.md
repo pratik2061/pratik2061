@@ -62,7 +62,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" /><br/>Express
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" /><br/>Laravel
+      <img src="https://images.icon-icons.com/2699/PNG/512/laravel_logo_icon_170314.png" width="40" /><br/>Laravel
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br/>PHP
