@@ -26,6 +26,13 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik2061&show_icons=true&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2061&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
 ### 🛠️ Languages and Tools:
 <table align="center">
   <tr>
@@ -38,12 +45,6 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>HTML5
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br/>CSS3
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -53,30 +54,18 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" /><br/>Express
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" /><br/>Laravel
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)" width="40" /><br/>Laravel
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br/>PHP
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" /><br/>Redux
-    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /><br/>MySQL
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" /><br/>PostgreSQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" /><br/>MongoDB
-    </td>
-    <td align="center">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /><br/>Firebase
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>Git
     </td>
   </tr>
   <tr>
@@ -84,32 +73,18 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" /><br/>Docker
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><br/>Linux
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /><br/>C
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br/>C++
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br/>Postman
-    </td>
+
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /><br/>TailwindCSS
-    </td>
     <td colspan="4"></td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik2061&show_icons=true&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Stats"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik2061&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2061&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
