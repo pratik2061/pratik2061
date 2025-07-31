@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=pratik2061&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 ### 🚀 About Me
 
 - 🔭 I’m currently working on [**KrishakMart**](https://github.com/pratik2061/KrishakMart)
@@ -29,11 +31,17 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik2061&show_icons=true&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2061&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik2061&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik2061&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2061&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+---
+
 ### 🛠️ Languages and Tools:
+
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -45,46 +53,38 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br/>Node.js
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" /><br/>Express
     </td>
-    <td align="center">
-      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)" width="40" /><br/>Laravel
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" /><br/>Laravel
     </td>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br/>PHP
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" /><br/>PostgreSQL
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /><br/>Firebase
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" /><br/>Docker
     </td>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /><br/>C
     </td>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br/>C++
     </td>
-
-  </tr>
-  <tr>
-    <td colspan="4"></td>
   </tr>
 </table>
 
 ---
-
-
