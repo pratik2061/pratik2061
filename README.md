@@ -111,6 +111,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratik2061&show_icons=true&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik2061&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik2061&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2061&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
