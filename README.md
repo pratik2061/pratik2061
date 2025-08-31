@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Sharma</h1>
 <!-- <h3 align="center">A Passionate Fullstack Developer from Nepal</h3> -->
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **React, Express, Laravel**
