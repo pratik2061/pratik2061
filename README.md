@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Sharma</h1>
 <!-- <h3 align="center">A Passionate Fullstack Developer from Nepal</h3> -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratik2061&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
 ### 🚀 About Me
-
-- 🔭 I’m currently working on [**KrishakMart**](https://github.com/pratik2061/KrishakMart)
 - 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **React, Express, Laravel**
 - 👨‍💻 All of my projects are available at [**pratiksharma.info.np**](https://www.pratiksharma.info.np)
@@ -89,5 +80,3 @@
     </td>
   </tr>
 </table>
-
----
